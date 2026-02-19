@@ -9,3 +9,7 @@ def main():
 if __name__ == "__main__":
 
     main()
+
+## In-Class Git Practice
+
+This repo contains a small Python script and Git practice commits.
